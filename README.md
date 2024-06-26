@@ -1,12 +1,12 @@
 # Hey There!
 ## My name is Abhimanyu Gabhrani and I am a Data engineer intern at Celebal Technologies, Jaipur.
-🔭 I’m currently working on Full-Stack Web Development and Data engineering.
-🌱 I’m currently contributing to Open Source and learning React JS, and Pyspark.
-🔍 I’m looking to collaborate on Front-End Web Dev Projects
-🤔 I’m looking for help in Machine Learning / Data Science
-💬 Ask me about Data Structures in Python, Java, JavaScript, Bootstrap, Graphic Designing (Canva), SQL, Apache Spark
-😄 Pronouns: He/His
-⚡ Fun fact: I can talk 24/7 about cricket.
+🔭 I’m currently working on Full-Stack Web Development and Data engineering. <br>
+🌱 I’m currently contributing to Open Source and learning React JS, and Pyspark. <br>
+🔍 I’m looking to collaborate on Front-End Web Dev Projects <br>
+🤔 I’m looking for help in Machine Learning / Data Science <br>
+💬 Ask me about Data Structures in Python, Java, JavaScript, Bootstrap, Graphic Designing (Canva), SQL, Apache Spark <br>
+😄 Pronouns: He/His <br>
+⚡ Fun fact: I can talk 24/7 about cricket. <br>
 
 ## My Projects:
 
